@@ -16,4 +16,13 @@ p = 2n
 
 Nesse caso, n é um elemento do conjunto dos números inteiros. Note que essa é a “tradução” da primeira definição em termos algébricos."
 
-Veja mais sobre "O que são números pares e ímpares?" em: https://brasilescola.uol.com.br/o-que-e/matematica/o-que-sao-numeros-pares-impares.htm
+
+
+
+"Números ímpares
+
+Os números ímpares são os elementos do conjunto dos números inteiros que não são pares, ou seja, são os números que terminam com algum dos algarismos 1, 3, 5, 7 ou 9. Formalmente, o conjunto dos números ímpares é um subconjunto dos números inteiros, e a definição de seus elementos é:
+
+Todo número ímpar não é múltiplo de 2."
+
+
